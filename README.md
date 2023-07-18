@@ -10,10 +10,10 @@ will tell you about those soon. I really love coding its a fun spot
 to me yes it can be challenging but that what makes it a fun spot to me.💪🏾</p>
 
 - <h2>Education</h2>
-<p>All i learned  half taught by my mom i would not be where i am
-   now if it wernt for her.the other half was A course called American Dream 
-  (which my mom introduced me to) Ive learned so much from that course it has been 
- very helpful it taught me all of the levels from basics to harcore it is awesome.🍎</p>
+<p>All I learned  half taught by my mom i would not be where i am
+   now if it wernt for her.the other half was A course (which my mom introduced me to) Ive
+   learned so much from that course it has been very helpful it taught me all of the 
+   levels from basics to harcore it is awesome.🍎</p>
 
 - <h2>Projects</h2>
 <p>i have made three recent websites One is a webstie for childrens books 
